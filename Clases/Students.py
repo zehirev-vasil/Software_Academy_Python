@@ -1,3 +1,4 @@
+
 class Student():
     # Class attributes
     static_object_count = 0
